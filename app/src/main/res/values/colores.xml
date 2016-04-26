@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Machos Alfa -->
+<color name="DarkBlue">#034f84</color>
+<color name="Serenity">#91A8d0</color>
+<color name="Limpet_Shell">#98ddde</color>
+
+    <!-- Machas Omega -->
+<color name="Rose_Quartz">#f7cac9</color>
+<color name="Peach_Echo">#f7786b</color>
+<color name="Fiesta">#dd4132</color>
+</resources>

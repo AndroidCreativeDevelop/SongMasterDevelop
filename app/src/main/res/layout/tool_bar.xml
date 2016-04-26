@@ -3,8 +3,8 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:background="@color/Limpet_Shell"
-    android:theme="@style/ThemeOverlay.AppCompat.Dark"
-    android:elevation="4dp"
+    android:theme="@style/AppTheme.AppBarOverlay"
+
     android:paddingTop="10dp">
 
 </android.support.v7.widget.Toolbar>
